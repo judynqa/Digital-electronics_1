@@ -8,4 +8,3 @@
 #### Table:
 
 | **a** | *b* |
-| Hey | There |
