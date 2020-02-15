@@ -7,6 +7,6 @@
 4. [seznam](https://www.seznam.cz)
 #### Table:
 | **A** | **NOT** |
-| | |
+| - | - |
 | 0 | 1 |
 | 1 | 0 |
