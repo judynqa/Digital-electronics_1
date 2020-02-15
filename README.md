@@ -6,4 +6,7 @@
 3. On
 4. [seznam](https://www.seznam.cz)
 #### Table:
-| **a** | *b* |
+| **A** | **NOT** |
+| :-: | :-: |
+| 0 | 1 |
+| 1 | 0 |
